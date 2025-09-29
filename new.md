@@ -1,4 +1,4 @@
-add a line
+add a line for merge conflict purpose
 
 another line
 
